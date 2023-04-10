@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahrican</h1>
 <h3 align="center">I am a computer engineering student</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter and Java**
+- 🌱 I’m currently learning **Flutter and Kotlin**
 
 - 📫 How to reach me **fahricandurucan@icloud.com**
 
