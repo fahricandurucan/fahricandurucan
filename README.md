@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
-- 📫 How to reach me **fahricandurucan@icloud.com**
+- 📫 How to reach me **fahricandurucan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
